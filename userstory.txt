@@ -1,0 +1,8 @@
+                                                                              LICENSE APPLICATION
+
+As a public citizen, I want to apply for a new license to go to college daily by own transport.
+
+Acceptance Criteria:-
+1. My aaadhar with age restriction is checked.
+2. I was tested to drive by an officer with driving test.
+3. I was given license approval and I am in waiting list for few days.
